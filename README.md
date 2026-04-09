@@ -14,7 +14,6 @@
 
 ### 🧠 About Me
 
-- 📈 **Options Trader** — Nifty 50, crypto derivatives (Delta Exchange), multi-lot strategies
 - 💻 **Web Developer** — React, JavaScript, TypeScript, HTML/CSS
 - 🤖 **AI Explorer** — Building with multi-agent AI systems, Claude, Cursor, Windsurf
 - ☁️ **Cloud Learner** — DataCamp cloud computing courses, AWS/GCP basics
@@ -59,14 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj45681&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 📈 Trading & Finance Interests
-
-- 📊 **Nifty 50** Options trading with technical analysis
-- ₿ **Crypto Derivatives** on Delta Exchange
-- 🔢 Multi-lot strategies & risk management
-- 📉 Chart patterns, support/resistance, indicators
 
 ---
 
