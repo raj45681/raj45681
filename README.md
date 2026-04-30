@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rajesh Pradhan 👋</h1>
 
 <p align="center">
-  <b>Options Trader • Web Developer • AI Enthusiast</b><br/>
+  <b>Web Developer • AI Enthusiast</b><br/>
   📍 Bhubaneswar, Odisha, India
 </p>
 
